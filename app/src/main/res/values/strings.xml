@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EasyStore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="offers">Offers</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_orders">My Orders</string>
+    <string name="new_products">New Products</string>
+    <string name="offers2">Offers</string>
+    <string name="new_products2">New Products</string>
+    <string name="my_orders2">My Orders</string>
+    <string name="my_cart2">My Cart</string>
+    <string name="profile1">Profile</string>
+    <string name="category2">Category</string>
+    <string name="home">Home</string>
+    <string name="popular_products12">Popular Products</string>
+    <string name="view_all121">View all</string>
+    <string name="search_your_item_here1">Search your Item here</string>
+    <string name="explore_products">Explore Products</string>
+    <string name="recommended">Recommended</string>
+    <string name="popular_products32">Popular Products</string>
+    <string name="_5_0">5.0</string>
+    <string name="discount_10_off">Discount 10% off</string>
+    <string name="description43">Description</string>
+</resources>
